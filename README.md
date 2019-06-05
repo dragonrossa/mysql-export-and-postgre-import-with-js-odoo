@@ -3,4 +3,6 @@ Export part of the mysql database and transport it into querys to import them in
 
 ps. Odoo is in Docker so it is connected to container Postgres and import was made with Dbeaver
 
+Also, read document file, it is full of examples how to use js files
+
 https://en.wikipedia.org/wiki/Extract,_transform,_load#Virtual_ETL
